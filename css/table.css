@@ -1,0 +1,108 @@
+body {
+   font: 12px/1.8 Arial, Verdana, Tahoma, sans-serif;
+   color: #fff;
+   background: #272726;
+   
+}
+
+
+table.round { 
+  border: 1px solid #585757;
+  border-radius: 5px; 
+  border-spacing: 0;
+  }
+
+
+table.round td, 
+table.round th { 
+  border-bottom: 1px solid #585757;
+  padding: 8px; 
+ }
+
+
+table.round tr:last-child > td {
+  border-bottom: none;
+}
+
+
+tr, th, td {
+   
+   height: 30px;
+   width: 150px;
+}
+
+
+th, tr {
+   
+   text-align: left;   
+}
+
+
+.size {
+      width: 5px;
+   
+}
+
+.color_font {
+   color: #818181;
+   
+}
+
+img.points {
+   width: 20px;
+   
+}
+
+.size_point{
+ width: 30px; 
+ ;
+}
+
+.size_cell {
+   
+   text-align: left; 
+}
+
+.size2_cell {
+   width: 161px;
+}
+
+.sell {
+   text-align: left;   
+}
+
+
+img.triangle  {
+   width: 10px;
+
+}
+
+img.check {
+    width: 13px;
+    padding: 5px; 
+    vertical-align: top; 
+}
+
+
+.point_s {
+   text-align: right; 
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
