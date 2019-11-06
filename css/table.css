@@ -95,10 +95,10 @@ img.check {
    background-repeat: no-repeat;
    background-size: 15px 15px;
    background-position: left center ;
-   padding-left:25px;
+   padding-left:28px;
    background-color: #5b5d5c;
    border-radius: 10px;
-   height: 25px;
+   height: 35px;
 }
    input[type="text"]::placeholder {
     color: #b4b3b3; 
