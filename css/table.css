@@ -59,12 +59,12 @@ img.points {
 }
 
 .size_cell {
-   width: 197px;
+   width: 205px;
    ; 
 }
 
 .size2_cell {
-   width: 161px;
+   width: 172px;
 }
 
 .sell {
@@ -94,8 +94,8 @@ img.check {
    background-image: url(../images/search.png);
    background-repeat: no-repeat;
    background-size: 15px 15px;
-   background-position: left center ;
-   padding-left:28px;
+   background-position: 12px 12px;
+   padding-left:38px;
    background-color: #5b5d5c;
    border-radius: 10px;
    height: 35px;
