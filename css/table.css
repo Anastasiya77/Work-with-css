@@ -99,6 +99,7 @@ img.check {
    background-color: #5b5d5c;
    border-radius: 10px;
    height: 35px;
+   color: #fff;
 }
    input[type="text"]::placeholder {
     color: #b4b3b3; 
